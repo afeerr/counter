@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    background-image: url(https://seekersguidance.org/wp-content/uploads/2021/05/masjid-walkway-.jpg);
+    background-size: 100vh;
+    color: #E6AA68;
+    text-shadow: 1px 1px #3f3e40;
+    font-family: 'pt serif', serif;
+}
+
+#count-ly{
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+button{
+    padding: 5px 75px;
+    margin-top: 0px;
+    font-family: 'pt serif', serif;
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 6px;
+    width: 200px;
+    text-shadow: 0px 0px #38371F;
+    display: flex;
+    align-items: center;
+    flex-direction: center;
+    margin: auto;
+    text-align: center;
+}
+
+#increment-btn{
+    background-color: #aaa95a;
+    color: #6e563c;
+    text-shadow: 1px 1px black;
+}
+
+#save-btn{
+    background-color: #828144;
+    margin-top: 10px;
+    color: #80592e;
+    text-shadow: 1px 1px black;
+}
+
+#reset-btn{
+    background-color: #5C5B31;
+    margin-top: 10px;
+    text-align: center;
+    color: #cfa170;
+    text-shadow: 1px 1px black;
+    border: #80592e
+}
+
+#save-ly{
+    font-weight: bold;
+}
+
